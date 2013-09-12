@@ -4,7 +4,7 @@ logo:             site-logo.png
 disqus_shortname: surculusfructum
 search:           false
 #Comment out url when working locally to resolve base urls correctly
-#url:              http://surculusfructum.com
+url:              http://surculusfructum.com
 
 # Owner/author information
 owner:
