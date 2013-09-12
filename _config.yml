@@ -2,9 +2,9 @@ title:            Surculus Fructum
 description:      Podcast sobre tecnología, open source y buena onda.
 logo:             site-logo.png
 disqus_shortname: 
-search:           true
+search:           false
 #Comment out url when working locally to resolve base urls correctly
-url:              http://surculusfructum.com
+#url:              http://surculusfructum.com
 
 # Owner/author information
 owner:
@@ -34,14 +34,14 @@ bing_verify:
 links:
   - title: Episodios
     url: /episodios
-  - title: About
+  - title: Quienes Somos?
     url: /about
   - title: Twitter
     url: http://twitter.com/surculusfructum
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Montevideo
 future:      true
 pygments:    true
 markdown:    kramdown
