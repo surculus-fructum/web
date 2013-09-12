@@ -1,18 +1,18 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Surculus Fructum
+description:      Podcast sobre tecnología, open source y buena onda.
 logo:             site-logo.png
 disqus_shortname: 
 search:           true
 #Comment out url when working locally to resolve base urls correctly
-url:              http://your-website.com
+url:              http://surculusfructum.com
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Cuervo/PoTe
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          hola@surculusfructum.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
+  twitter:        surculusfructum
   facebook:       
   github:         
   stackexchange:  
@@ -32,14 +32,12 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
+  - title: Episodios
+    url: /episodios
   - title: About
     url: /about
-  - title: Articles
-    url: /articles
-  - title: Theme Setup
-    url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: Twitter
+    url: http://twitter.com/surculusfructum
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
