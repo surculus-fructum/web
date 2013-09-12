@@ -13,8 +13,8 @@ Hoy hablamos de Docker, Dokku y las plataformas como servicio a la hora de hacer
 ## Audio
 
 <audio controls>
-  <source src="episodios/000.mp3" type="audio/mpeg">
-  <source src="episodios/000.ogg" type="audio/ogg">
+  <source src="/episodios/000.mp3" type="audio/mpeg">
+  <source src="/episodios/000.ogg" type="audio/ogg">
   Si ves esto tu navegador no soporta la reproducción en HTML5 de archivos mp3 ni ogg, vas a tener que bajar el archivo. :(
 </audio>
 
