@@ -1,7 +1,7 @@
 title:            Surculus Fructum
 description:      Podcast sobre tecnología, open source y buena onda.
 logo:             site-logo.png
-disqus_shortname: 
+disqus_shortname: surculusfructum
 search:           false
 #Comment out url when working locally to resolve base urls correctly
 #url:              http://surculusfructum.com
@@ -15,19 +15,10 @@ owner:
   twitter:        surculusfructum
   facebook:       
   github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
-google_verify:      
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:         
+google_analytics:   UA-44009300-1
+google_verify:      UA-44009300-1
 
 # Links to include in top navigation
 # For external links add external: true
@@ -47,7 +38,7 @@ pygments:    true
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
+permalink:   /:title
 
 kramdown:
   auto_ids: true
