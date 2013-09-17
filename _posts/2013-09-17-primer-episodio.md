@@ -1,11 +1,17 @@
 ---
 layout: post
 title: Presentación, Docker y Dokku
-description: "Hablamos un poco de sobre que se trata el podcast, Docker, dokky y algunas pequeñas herramientas open source que encontramos hace poco."
+description: "Hablamos un poco de sobre que se trata el podcast, Docker, dokku y algunas pequeñas herramientas open source que encontramos hace poco."
 modified: 2013-09-17
 category: articles
 tags:
 comments: true
+
+podcast: true
+itunes: http://surculusfructum.com/episodios/000.m4u
+duration: 22:19
+length: 11028055
+
 ---
 
 Hoy hablamos de Docker, Dokku y las plataformas como servicio a la hora de hacer deploys de aplicaciónes.
