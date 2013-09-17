@@ -42,7 +42,7 @@ Hoy hablamos de Docker, Dokku y las plataformas como servicio a la hora de hacer
 * [MailCatcher](http://mailcatcher.me/)
 * [gpm](https://github.com/pote/gpm) - Manejador de paquetes de Go
 * [to-github-vim](https://github.com/tonchis/to-github-vim)
-* [Humble Bundle](humblebundle.com)
+* [Humble Bundle](http://humblebundle.com)
 
 ### La Guarangada de la Semana
 
