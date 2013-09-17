@@ -20,7 +20,7 @@ layout: nil
       <itunes:name>Bruno Aguirre</itunes:name>
       <itunes:email>yo@brunoaguirre.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="http://www.surculusfructum.com/img/podcast_logo.png" />
+    <itunes:image href="http://www.surculusfructum.com/images/podcast_logo.png" />
     <itunes:category text="Comedy" />
     <itunes:category text="Society &amp; Culture" />
     <itunes:category text="Technology" />
@@ -32,7 +32,7 @@ layout: nil
       <itunes:author>elCuervo &amp; PoTe</itunes:author>
       <itunes:subtitle>{{ post.title }}</itunes:subtitle>
       <itunes:summary>{{ post.description | xml_escape }}</itunes:summary>
-      <itunes:image href="http://www.surculusfructum.com/img/podcast_logo.png" />
+      <itunes:image href="http://www.surculusfructum.com/images/podcast_logo.png" />
       <enclosure url="{{ post.itunes }}" length="{{ post.length }}" type="audio/x-m4a" />
       <guid>{{ post.itunes }}</guid>
       <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
