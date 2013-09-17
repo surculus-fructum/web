@@ -46,5 +46,5 @@ Hoy hablamos de Docker, Dokku y las plataformas como servicio a la hora de hacer
 
 ### La Guarangada de la Semana
 
-* [TwitterTheComic](twitterthecomic.tumblr.com)
+* [TwitterTheComic](http://twitterthecomic.tumblr.com)
 
