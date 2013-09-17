@@ -8,7 +8,7 @@ tags:
 comments: true
 
 podcast: true
-itunes: http://surculusfructum.com/episodios/000.m4u
+itunes: http://surculusfructum.com/episodios/000.m4a
 duration: 22:19
 length: 11028055
 
