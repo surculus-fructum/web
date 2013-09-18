@@ -15,4 +15,4 @@ iTunes desde este link:
 
 Por otra parte tambien es posible suscribirse desde el feed del podcast:
 
-[http://surculusfructum.com/podcast.xml](http://surculusfructum.com/podcast.xml)
+[http://feeds.feedburner.com/SurculusFructum](http://feeds.feedburner.com/SurculusFructum)
