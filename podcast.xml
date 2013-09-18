@@ -23,7 +23,7 @@ layout: nil
 <itunes:category text="Technology" />
 <itunes:category text="Comedy" />
 <itunes:category text="Society &amp; Culture" />
-<itunes:new-feed-url>http://www.surculusfructum.com/podcast.xml</itunes:new-feed-url>
+<itunes:new-feed-url>http://feeds.feedburner.com/SurculusFructum</itunes:new-feed-url>
 {% for post in site.posts limit:10 %}
 {% if post.podcast %}
 <item>
