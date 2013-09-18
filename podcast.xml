@@ -3,43 +3,42 @@ layout: nil
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <atom:link href="http://surculusfructum.com/podcast.xml" rel="self" type="application/rss+xml" />
-
-    <title>Surculus Fructum</title>
-    <link>http://www.surculusfructum.com/</link>
-    <language>es</language>
-    <copyright>&#xA9; 2013 elCuervo &amp; PoTe</copyright>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:subtitle>Podcast sobre tecnología, open source y buena onda.</itunes:subtitle>
-    <itunes:author>elCuervo &amp; Pote</itunes:author>
-    <itunes:keywords>opensource, ruby, python, nodejs, ios, golang, codigo libre, español</itunes:keywords>
-    <itunes:summary>Podcast sobre tecnologia, open source y buena onda. En español!</itunes:summary>
-    <description>Podcast sobre tecnologia, open source y buena onda. En español!</description>
-    <itunes:owner>
-      <itunes:name>Bruno Aguirre</itunes:name>
-      <itunes:email>yo@brunoaguirre.com</itunes:email>
-    </itunes:owner>
-    <itunes:image href="http://www.surculusfructum.com/images/podcast_logo.png" />
-    <itunes:category text="Technology" />
-    <itunes:category text="Comedy" />
-    <itunes:category text="Society &amp; Culture" />
-    <itunes:new-feed-url>http://www.surculusfructum.com/podcast.xml</itunes:new-feed-url>
-    {% for post in site.posts limit:10 %}
-    {% if post.podcast %}
-    <item>
-      <title>{{ post.title }}</title>
-      <itunes:author>elCuervo &amp; PoTe</itunes:author>
-      <itunes:subtitle>{{ post.title }}</itunes:subtitle>
-      <itunes:summary>{{ post.description | xml_escape }}</itunes:summary>
-      <itunes:image href="http://www.surculusfructum.com/images/podcast_logo.png" />
-      <enclosure url="{{ post.itunes }}" length="{{ post.length }}" type="audio/x-m4a" />
-      <guid>{{ post.itunes }}</guid>
-      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
-      <itunes:duration>{{ post.duration }}</itunes:duration>
-      <itunes:keywords>opensource, ruby, python, nodejs, ios, golang, codigo libre, español</itunes:keywords>
-    </item>
-    {% endif %}
-    {% endfor %}
-  </channel>
+<channel>
+<atom:link href="http://surculusfructum.com/podcast.xml" rel="self" type="application/rss+xml" />
+<title>Surculus Fructum</title>
+<link>http://www.surculusfructum.com/</link>
+<language>es</language>
+<copyright>&#xA9; 2013 elCuervo &amp; PoTe</copyright>
+<itunes:explicit>no</itunes:explicit>
+<itunes:subtitle>Podcast sobre tecnología, open source y buena onda.</itunes:subtitle>
+<itunes:author>elCuervo &amp; Pote</itunes:author>
+<itunes:keywords>opensource, ruby, python, nodejs, ios, golang, codigo libre, español</itunes:keywords>
+<itunes:summary>Podcast sobre tecnologia, open source y buena onda. En español!</itunes:summary>
+<description>Podcast sobre tecnologia, open source y buena onda. En español!</description>
+<itunes:owner>
+<itunes:name>Bruno Aguirre</itunes:name>
+<itunes:email>yo@brunoaguirre.com</itunes:email>
+</itunes:owner>
+<itunes:image href="http://www.surculusfructum.com/images/podcast_logo.png" />
+<itunes:category text="Technology" />
+<itunes:category text="Comedy" />
+<itunes:category text="Society &amp; Culture" />
+<itunes:new-feed-url>http://www.surculusfructum.com/podcast.xml</itunes:new-feed-url>
+{% for post in site.posts limit:10 %}
+{% if post.podcast %}
+<item>
+<title>{{ post.title }}</title>
+<itunes:author>elCuervo &amp; PoTe</itunes:author>
+<itunes:subtitle>{{ post.title }}</itunes:subtitle>
+<itunes:summary>{{ post.description | xml_escape }}</itunes:summary>
+<itunes:image href="http://www.surculusfructum.com/images/podcast_logo.png" />
+<enclosure url="{{ post.itunes }}" length="{{ post.length }}" type="audio/x-m4a" />
+<guid>{{ post.itunes }}</guid>
+<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S" }} GMT</pubDate>
+<itunes:duration>{{ post.duration }}</itunes:duration>
+<itunes:keywords>opensource, ruby, python, nodejs, ios, golang, codigo libre, español</itunes:keywords>
+</item>
+{% endif %}
+{% endfor %}
+</channel>
 </rss>
