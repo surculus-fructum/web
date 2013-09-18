@@ -10,11 +10,11 @@ layout: nil
 <language>es</language>
 <copyright>&#xA9; 2013 elCuervo &amp; PoTe</copyright>
 <itunes:explicit>no</itunes:explicit>
-<itunes:subtitle>Podcast sobre tecnología, open source y buena onda.</itunes:subtitle>
+<itunes:subtitle>Podcast sobre tecnolog&#237;a, open source y buena onda.</itunes:subtitle>
 <itunes:author>elCuervo &amp; Pote</itunes:author>
-<itunes:keywords>opensource, ruby, python, nodejs, ios, golang, codigo libre, español</itunes:keywords>
-<itunes:summary>Podcast sobre tecnologia, open source y buena onda. En español!</itunes:summary>
-<description>Podcast sobre tecnologia, open source y buena onda. En español!</description>
+<itunes:keywords>opensource, ruby, python, nodejs, ios, golang, codigo libre, espa&#241;ol</itunes:keywords>
+<itunes:summary>Podcast sobre tecnolog&#237;a, open source y buena onda. En espa&#241;ol!</itunes:summary>
+<description>Podcast sobre tecnolog&#237;a, open source y buena onda. En espa&#241;ol!</description>
 <itunes:owner>
 <itunes:name>Bruno Aguirre</itunes:name>
 <itunes:email>yo@brunoaguirre.com</itunes:email>
