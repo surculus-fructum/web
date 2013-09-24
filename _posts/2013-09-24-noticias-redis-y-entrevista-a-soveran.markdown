@@ -39,7 +39,7 @@ Algunas de las tecnologías de las que hablamos esta semana existen gracias a Re
 
 ## Librerías y Herramientas
 
-* [Countdown.js](http://countdownjs.org/)
+* [Countdown.js](http://gumroad.github.io/countdown.js/)
 * [Dotenv](https://github.com/bkeepers/dotenv)
 * [WebRTC en Firefox 24 de forma nativa](http://www.ghacks.net/2013/09/18/firefox-24-0-android-brings-webrtc-night-mode/)
 * [mt - mail tester daemon](https://github.com/soveran/mt)
