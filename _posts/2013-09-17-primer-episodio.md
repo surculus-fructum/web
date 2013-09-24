@@ -8,19 +8,22 @@ tags:
 comments: true
 
 podcast: true
-itunes: http://surculusfructum.com/episodios/000.m4a
+episode_number: "000"
+episode_name: El_Principio
 duration: 22:19
 length: 11028055
 
 ---
+
+{% capture episode_path %}{{site.s3}}/{{page.episode_number}}/{{page.episode_number}}-{{page.episode_name}}{% endcapture %}
 
 Hoy hablamos de Docker, Dokku y las plataformas como servicio a la hora de hacer deploys de aplicaciónes.
 
 ## Audio
 
 <audio controls>
-  <source src="/episodios/000.mp3" type="audio/mpeg">
-  <source src="/episodios/000.ogg" type="audio/ogg">
+  <source src="{{ episode_path }}.mp3" type="audio/mpeg">
+  <source src="{{ episode_path }}.ogg" type="audio/ogg">
   Si ves esto tu navegador no soporta la reproducción en HTML5 de archivos mp3 ni ogg, vas a tener que bajar el archivo. :(
 </audio>
 
@@ -28,9 +31,9 @@ Hoy hablamos de Docker, Dokku y las plataformas como servicio a la hora de hacer
 
 * [iTunes](itmss://itunes.apple.com/podcast/presentacion-docker-y-dokku/id709608207)
 
-* [episodio en mp3](http://surculusfructum.com/episodios/000.mp3)
-* [episodio en m4a](http://surculusfructum.com/episodios/000.m4a)
-* [episodio en ogg](http://surculusfructum.com/episodios/000.ogg)
+* [episodio en mp3]({{ episode_path }}.mp3)
+* [episodio en m4a]({{ episode_path }}.m4a)
+* [episodio en ogg]({{ episode_path }}.ogg)
 
 
 ## Links
@@ -56,4 +59,3 @@ Hoy hablamos de Docker, Dokku y las plataformas como servicio a la hora de hacer
 ### La Guarangada de la Semana
 
 * [TwitterTheComic](http://twitterthecomic.tumblr.com)
-
