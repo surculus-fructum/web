@@ -5,6 +5,7 @@ disqus_shortname: surculusfructum
 search:           false
 #Comment out url when working locally to resolve base urls correctly
 url:              http://surculusfructum.com
+s3:               http://surculusfructum.s3-website-sa-east-1.amazonaws.com
 
 # Owner/author information
 owner:
