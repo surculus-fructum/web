@@ -57,7 +57,7 @@ Diego Caliri y Emilio Tagua son la gente dentrás de Eventioz, una startup argen
 ### Links
 
 * [Diego Caliri en twitter - @dcaliri](https://twitter.com/dcaliri)
-* [Emiliano Tagua en twitter - @miloops](https://twitter.com/miloops)
+* [Emilio Tagua en twitter - @miloops](https://twitter.com/miloops)
 * [Eventioz](https://eventioz.com/)
 * [Eventioz adquirida por Eventbrite](https://eventioz.com/l/eventbrite)
 * [Eventbrite](http://www.eventbrite.com/)
