@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ruby 2.1 y la historia de Eventioz
-description: "Ruby 2.1-peview fue liberada por el Ruby Core team, también hablamos con @dcaliri y @miloops sobre la historia de Eventioz."
+description: "Ruby 2.1-preview fue liberada por el Ruby Core team, también hablamos con @dcaliri y @miloops sobre la historia de Eventioz."
 modified: 2013-10-01
 category: articles
 tags:
@@ -9,15 +9,15 @@ comments: true
 
 podcast: true
 episode_number: "002"
-episode_name: 
-duration: 
-length: 
+episode_name: Entrevista_Eventioz
+duration: 1:04:58
+length: 156931157
 
 ---
 
 {% capture episode_path %}{{site.s3}}/{{page.episode_number}}/{{page.episode_number}}-{{page.episode_name}}{% endcapture %}
 
-Ruby 2.1-peview fue liberada por el Ruby Core team, también hablamos con @dcaliri y @miloops sobre la historia de Eventioz.
+Ruby 2.1-preview fue liberada por el Ruby Core team, también hablamos con @dcaliri y @miloops sobre la historia de Eventioz.
 
 ## Audio
 <audio controls>
