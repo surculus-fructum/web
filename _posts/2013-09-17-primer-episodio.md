@@ -29,7 +29,7 @@ Hoy hablamos de Docker, Dokku y las plataformas como servicio a la hora de hacer
 
 ### Descargas
 
-* [iTunes](itmss://itunes.apple.com/podcast/presentacion-docker-y-dokku/id709608207)
+* [iTunes](https://itunes.apple.com/us/podcast/surculus-fructum/id709608207)
 
 * [episodio en mp3]({{ episode_path }}.mp3)
 * [episodio en m4a]({{ episode_path }}.m4a)

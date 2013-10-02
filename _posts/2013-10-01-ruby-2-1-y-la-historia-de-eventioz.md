@@ -27,7 +27,7 @@ Ruby 2.1-preview fue liberada por el Ruby Core team, también hablamos con @dcal
 </audio>
 
 ### iTunes
-* [Surculus Fructum en iTunes](itmss://itunes.apple.com/podcast/presentacion-docker-y-dokku/id709608207)
+* [Surculus Fructum en iTunes](https://itunes.apple.com/us/podcast/surculus-fructum/id709608207)
 
 
 ### Descargas
