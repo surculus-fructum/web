@@ -9,14 +9,15 @@ comments: true
 
 podcast: true
 episode_number: "003"
-episode_name: rubinius
-duration:
-length:
+episode_name: Entrevista_a_txustice
+duration: 1:14:42
+length: 144577319
 
 ---
 
 {% capture episode_path %}{{site.s3}}/{{page.episode_number}}/{{page.episode_number}}-{{page.episode_name}}{% endcapture %}
 
+{{ page.description }}
 
 ## Audio
 <audio controls>
