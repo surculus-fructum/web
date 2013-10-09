@@ -15,7 +15,7 @@ no forma parte de esta forma de trabajo, por lo que en lugar de explicarlo quere
 expandir nuestra comunidad.
 
 Este post va justamente asociado a como trabajan las personas que han
-contriubuido código a otros proyectos y como no se reduce exclusivamente a
+contribuido código a otros proyectos y como no se reduce exclusivamente a
 código. Por ejemplo, "peer review" consiste en que otra persona revise tu
 código. GitHub hizo esto fácil gracias a los Pull Requests.
 
