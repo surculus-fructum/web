@@ -6,7 +6,7 @@ comments: true
 ---
 
 A muchas personas les ha gustado que el programa sea desde el punto de vista de
-un programadar y no de un periodista - que normalmente no tienen idea de lo que
+un programador y no de un periodista - que normalmente no tienen idea de lo que
 hablan.
 
 Surculus Fructum nació de la necesidad de compartir, esa necesidad que arde en
