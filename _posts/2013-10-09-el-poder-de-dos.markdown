@@ -11,8 +11,8 @@ hablan.
 
 Surculus Fructum nació de la necesidad de compartir, esa necesidad que arde en
 las venas de todos los que hacemos opensource. Algo dificil de explicar si uno
-no forma parte de esta comunidad. Por eso en lugar de explicarlo queremos
-expandir nuestra comunindad.
+no forma parte de esta forma de trabajo, por lo que en lugar de explicarlo queremos
+expandir nuestra comunidad.
 
 Este post va justamente asociado a como trabajan las personas que han
 contriubuido código a otros proyectos y como no se reduce exclusivamente a
