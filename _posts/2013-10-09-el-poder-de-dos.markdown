@@ -2,7 +2,7 @@
 layout: post
 title: El poder de dos
 category: articles
-comments: false
+comments: true
 
 ---
 
