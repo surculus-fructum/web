@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ghost, Chromebooks y entrevista a PunchGirls
-description: "La Chromebook sale haciendonos desear a vivir que los sistema de correo en sudamerica funcionara mejor y las aduanas no existieran, también hablamos de la plataforma de blogging Ghost y tenemos una entrevista a PunchGirls, el equipo Argentino de Rails Girls Summer of Code."
+description: "Google presenta la Chromebook, también hablamos de la plataforma de blogging Ghost y tenemos una entrevista a PunchGirls, el equipo Argentino de Rails Girls Summer of Code."
 modified: 2013-10-08
 category: articles
 tags:
