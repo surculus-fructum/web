@@ -54,12 +54,12 @@ Cecilia y Mayn forman PunchGirls, uno de los equipos participantes del Rails Gir
 
 ## Links
 
-* [@punchgirls](https://twitter.com/punchgirls) en twitter
+* [@punchgirls](https://twitter.com/punchgirls)
 * [@_ceciliarivero](https://twitter.com/_ceciliarivero)
 * [@maynkj](https://twitter.com/maynkj)
 * [Blog de PunchGirls](http://punchgirls.wordpress.com/)
 * [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
-* [Donar a Rails Girls Summer of Code](http://railsgirlssummerofcode.org/campaign/)]
+* [Donar a Rails Girls Summer of Code](http://railsgirlssummerofcode.org/campaign/)
 * [Artículo que inspira el nombre PunchGirls](https://medium.com/everything-old-is-new-again/8c5883a005c3)
 * [JobBoard](https://github.com/punchgirls/job_board)
 * [Equipos de Rails Girls Summer of Code](http://teams.railsgirlssummerofcode.org/)
