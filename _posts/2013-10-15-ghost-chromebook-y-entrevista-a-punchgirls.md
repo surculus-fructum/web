@@ -44,25 +44,25 @@ length: 144533026
 * [Ghost](https://github.com/TryGhost/Ghost)
 * [QuestionMark.js]( http://www.impressivewebs.com/demo-files/question-mark-js/)
 * [pyke - python's make](https://github.com/dreikanter/pyke)
-* [Chromebooks!](http://www.google.com/intl/en/chrome/devices/hp-chromebook-11/#tab=colour-black)
+* [Chromebooks!](http://www.google.com/intl/en/chrome/devices/hp-chromebook-11)
 * [Sistemas de seguridad con Raspberry Pi](http://www.bartbania.com/index.php/raspberry-pi-simple-home-security-system/)
 
 ## Entrevista: Punch Girls - @punchgirls
 
-Cecilia y Mayn forman PunchGirls, uno de los equipos participantes del Rails Girls Summer of Code. 
+Cecilia y Mayn forman PunchGirls, uno de los equipos participantes del Rails Girls Summer of Code.
 
 
 ## Links
 
 * [@punchgirls](https://twitter.com/punchgirls) en twitter
-* [@_ceciliarivero](https://twitter.com/_ceciliarivero) 
+* [@_ceciliarivero](https://twitter.com/_ceciliarivero)
 * [@maynkj](https://twitter.com/maynkj)
 * [Blog de PunchGirls](http://punchgirls.wordpress.com/)
 * [Rails Girls Summer of Code](http://railsgirlssummerofcode.org/)
 * [Donar a Rails Girls Summer of Code](http://railsgirlssummerofcode.org/campaign/)]
 * [Artículo que inspira el nombre PunchGirls](https://medium.com/everything-old-is-new-again/8c5883a005c3)
 * [JobBoard](https://github.com/punchgirls/job_board)
-* [Equipos de Rails Girls Summer of Code](http://teams.railsgirlssummerofcode.org/) 
+* [Equipos de Rails Girls Summer of Code](http://teams.railsgirlssummerofcode.org/)
 * ["Tokens" autocompletado en javascript por PunchGirls](https://github.com/punchgirls/tokens)
 * Mentor y Coaches
 * - [@soveran](https://twitter.com/soveran)
@@ -84,6 +84,7 @@ Cecilia y Mayn forman PunchGirls, uno de los equipos participantes del Rails Gir
 
 * [Rails Rumble](http://railsrumble.com/)
 * [Llamada a propuestas de MagmaConf abre en Noviembre](http://lanyrd.com/2014/magmaconf/calls/qrmg/)
+* [PyCon UY](http://uy.pycon.org)
 
 
 ## Guarangada de la semana
