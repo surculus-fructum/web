@@ -54,14 +54,20 @@ length: 84377061
 
 ## Entrevista: Alejandro Revilla
 
-Alejandro es el creador de JPos, un producto open source que es la impelmentación abierta de software para manejo de transacciónes de tarjetas de credito
+Alejandro es el creador de JPOS, un producto open source que es la impelmentación abierta de software para manejo de transacciónes de tarjetas de credito
 más usada en el mundo.
 
 ## Links
 
 * [@apr](https://twitter.com/apr) en twitter.
 * [ar en github](https://github.com/ar)
-
+* [POS](http://es.wikipedia.org/wiki/Terminal_punto_de_venta)
+* [jPOS](http://jpos.org)
+* [BBS](http://es.wikipedia.org/wiki/Bulletin_Board_System)
+* [AX.25](http://en.wikipedia.org/wiki/AX.25)
+* [ISO 8583](http://es.wikipedia.org/wiki/ISO_8583)
+* [AWT](http://es.wikipedia.org/wiki/Abstract_Window_Toolkit)
+* [OSGi](http://en.wikipedia.org/wiki/OSGi)
 
 ## Conferencias y Eventos
 
