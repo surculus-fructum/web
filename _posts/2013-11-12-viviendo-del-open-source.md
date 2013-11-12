@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Viviendo del Open Source
-description: "Hablamos con Alejandro Revilla de JPos, su historia desde empezar a programar hasta vivir de una empresa desarrollada a partir de un producto open source."
+description: "Hablamos con Alejandro Revilla de JPOS, su historia desde empezar a programar hasta vivir de una empresa desarrollada a partir de un producto open source."
 modified: 2013-11-12
 category: articles
 tags:
