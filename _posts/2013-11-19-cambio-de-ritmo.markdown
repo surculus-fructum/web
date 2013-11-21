@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cambio de ritmo
-published: false
+published: true
 category: articles
 tags:
 comments: true
